@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8c1b3e</color>
+    <color name="colorPrimaryDark">#1b5c66</color>
+    <color name="colorAccent">#20191b</color>
+    <color name="colorBackground">#f2f2f2</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="cardBackGround">#ffffff</color>
+    <color name="mainColor">#2FA1B3</color>
+    <color name="startusColor">#8c1b3e</color>
+    <color name="textColor">#000000</color>
+    <color name="tabTitleColor">#FFFFFF</color>
+    <color name="textsourceColor">#00FFCC</color>
+    <color name="bottom_navigation_enable">#800040</color>
+    <color name="text_black">#000000</color>
+
+</resources>

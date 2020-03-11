@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="2dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_view_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="1dp"
+        android:outlineAmbientShadowColor="#B6B6B6"
+        app:cardBackgroundColor="@color/cardBackGround">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/img_relate"
+                android:layout_width="@dimen/img_size_relate"
+                android:layout_height="@dimen/img_size_relate"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="8dp"
+                android:scaleType="centerCrop" />
+
+            <TextView
+                android:id="@+id/txt_title_relate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_toEndOf="@+id/img_relate"
+                android:text="Title"
+                android:lines="3"
+                android:textColor="@color/textColorPrimary"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_source_relate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_title_relate"
+                android:layout_toEndOf="@+id/img_relate"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:text="Source"
+                android:textColor="#0c7d91"
+                android:textSize="15dp"
+                android:fontFamily="@font/arial"/>
+
+        </RelativeLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

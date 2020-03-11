@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">24h Tin Tức</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">TIN MỚI NHẤT</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="dieu_khoan">TIN MỚI NHẤT - Đọc Báo, Tin tức trân trọng cảm ơn các bạn đã sử dụng ứng dụng “TIN MỚI NHẤT” của chúng tôi. Mọi nội dung trong “TIN MỚI NHẤT” được chia sẽ công khai lấy từ các trang web tin tức lớn của Việt Nam.\n- Tin tức được cập nhật liên tục từng phút trong “TIN MỚI NHẤT”.\n- Chúng tôi không sở hữu bất kỳ nội dung nào trong ứng dụng. Ứng dụng chỉ hiển thị nội dung của các bài báo.\n- Khi các bạn click vào xem các bài báo thì ứng dụng sẽ chuyển đến website lưu trữ nội dung bài viết đó.\n- Chúng tôi không sở hữu quyền của bất kỳ nội dung nào.\n- Nhằm duy trì và phát triển ứng dụng ngày một phù hợp và phục vụ người dùng tốt hơn chúng tôi có sử dụng quảng cáo của Google để tạo doanh thu cho ứng dụng.\n- Chúng tôi không khuyến khích các bạn click vào quảng cáo. Nếu các bạn thấy quảng cáo có ích cho mình thì hãy click để xem.\n- Chân thành cảm ơn các bạn đã sử dụng ứng dụng “TIN MỚI NHẤT”.\nChúc các bạn có những thông tin giải trí và kiến thức hữu ích cho mình.</string>
+
+    <!--Id Ads chính-->
+    <string name="ad_banner">ca-app-pub-4439595704793521/7926812554</string>
+    <string name="ad_full">ca-app-pub-4439595704793521/2808956664</string>
+    <string name="Admod_app_id">ca-app-pub-4439595704793521~4858151305</string>
+    <!--Id test Ads-->
+    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="full_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+
+
+<!--    Home-->
+
+    <string name="home">Home</string>
+    <string name="invite">Invite</string>
+    <string name="cash_out">Cash out</string>
+    <string name="me">Me</string>
+
+</resources>
